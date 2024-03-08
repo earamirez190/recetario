@@ -1,0 +1,2 @@
+# recetario
+Ejercicio Coursera Git
